@@ -1,5 +1,5 @@
 <?php include '../common/header.php'; ?>
-<h1 class="mb-2 mt-[30px] text-[35px] font-bold bg-gradient-to-bl from-green-400 to-blue-500 inline-block text-transparent bg-clip-text">XML Schema Validator</h1>
+<h1 class="mb-2 mt-[30px] text-[35px] font-bold bg-gradient-to-bl from-green-400 to-blue-500 inline-block text-transparent bg-clip-text">Validateur XSD</h1>
 <form id="validator-form" class="flex w-full h-[60%] mb-[20px] gap-[20px] justify-center flex-wrap">
   <div class="flex flex-col items-start gap-2 basis-[45%]">
     <textarea class="w-full bg-[#F3F3F3] resize-none h-[90%] rounded-md focus:outline-none p-3 caret-green-400" placeholder="Entrer XML ici ..." name="xml" id="xml"></textarea>
